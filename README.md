@@ -1,6 +1,6 @@
 # [Final Portfolio for Interactive Graphics](https://nikhilvdk.github.io/IntGraphicsPortfolio/)
 
-Site Here <https://nikhilvdk.github.io/IntGraphicsPortfolio/><>
+Site Here <https://nikhilvdk.github.io/IntGraphicsPortfolio/>
 
 
 
